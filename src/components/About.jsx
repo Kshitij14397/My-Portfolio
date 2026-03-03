@@ -51,7 +51,7 @@ export default function About() {
               <div className="relative group">
                 <div className="w-56 h-56 rounded-xl bg-dark-lighter border-2 border-primary/30 flex items-center justify-center overflow-hidden group-hover:border-primary transition-colors duration-300">
                   <span className="text-gray-500 text-sm text-center">
-                    <img src="../public/profile.jpg" />
+                    <img src="/profile.jpg" />
                   </span>
                 </div>
                 <div className="absolute -inset-1 rounded-xl bg-gradient-to-br from-primary/20 to-accent/20 -z-10 blur-sm group-hover:blur-md transition-all duration-300" />
