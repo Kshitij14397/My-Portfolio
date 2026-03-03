@@ -9,7 +9,7 @@ export const personalInfo = {
   tagline:
     "Results-driven software engineer with 3+ years of experience developing scalable and efficient solutions across the tech stack. Known for a detail-oriented approach and a commitment to creating seamless user experiences.",
   email: "kshitij14397@gmail.com",
-  resumeUrl: "../../Kshitij_Pandey_FullStack_Resume.pdf", // link to your resume PDF
+  resumeUrl: "../../public/Kshitij_Pandey_FullStack_Resume.pdf", // link to your resume PDF
   social: {
     github: "https://github.com/Kshitij14397",
     linkedin: "https://www.linkedin.com/in/kshitij14397/",
